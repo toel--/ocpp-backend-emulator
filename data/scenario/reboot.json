@@ -1,0 +1,12 @@
+[
+    {
+        "second": 30,
+        "type": "ocpp",
+        "op": "Reset"
+    },
+    {
+        "second": 100,
+        "type": "script",
+        "op": "restart"
+    }
+]

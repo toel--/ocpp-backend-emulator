@@ -1,0 +1,87 @@
+[
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "ChangeConfiguration"
+    },
+    {
+        "second": 999,
+        "type": "script",
+        "op": "exit"
+    }
+]

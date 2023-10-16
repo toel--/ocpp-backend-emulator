@@ -1,0 +1,22 @@
+[
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "RemoteStartTransaction"
+    },
+    {
+        "second": 12,
+        "type": "ocpp",
+        "op": "RemoteStartTransaction"
+    },
+    {
+        "second": 60,
+        "type": "ocpp",
+        "op": "RemoteStopTransaction"
+    },
+    {
+        "second": 100,
+        "type": "script",
+        "op": "restart"
+    }
+]

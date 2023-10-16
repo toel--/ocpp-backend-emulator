@@ -1,0 +1,13 @@
+[
+    {
+        "second": 10,
+        "type": "ocpp",
+        "op": "UpdateFirmware"
+    },
+    {
+        "OBS": "This will never be called as scenario 'run.json' will be called after fw update restart",
+        "second": 999,
+        "type": "script",
+        "op": "exit"
+    }
+]

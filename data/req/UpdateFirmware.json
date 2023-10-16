@@ -1,0 +1,1 @@
+[2,"${msgId}","UpdateFirmware",{"location":"ftp://user:password@server/firmware.enc", "retrieveDate":"${now}"}]
