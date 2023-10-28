@@ -1,1 +1,1 @@
-[2, "${msgId}", "RemoteStopTransaction", {"transactionId":"${transactionId}"}]
+[2, "${msgId}", "RemoteStopTransaction", {"transactionId":${transactionId}}]
